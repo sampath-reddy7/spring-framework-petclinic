@@ -646,11 +646,5 @@
                 </plugins>
             </build>
         </profile>
-        <distributionManagement>
-  <snapshotRepository>
-    <id>nexus-petclinic</id>
-    <url>http://3.133.112.6:8081/repository/nexus-petclinic/</url>
-  </snapshotRepository>
-</distributionManagement>
    </profiles>
 </project>
